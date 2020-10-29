@@ -125,11 +125,11 @@ I got inspiration from the countless awesome lists in github.
 * [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
 * [Direct Industry](http://pdf.directindustry.com/), online catalogs
 
-#### <a name="calculator"></a>Online Calculators
+<!-- #### <a name="calculator"></a>Online Calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
-* [WolframAlpha](https://www.wolframalpha.com/)
+* [WolframAlpha](https://www.wolframalpha.com/) -->
 
 #### <a name="tool"></a>Tools and Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
